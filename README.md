@@ -7,7 +7,9 @@
 <br/>
 
 <div align="center">
-As a data analyst, my goal is to make data approachable and insightful. I’m here to make the complex simple, to create stories from data, and to unlock potential insights that can lead to smarter decisions. Data analysis is more than just numbers it's about making a difference.
+    
+In a world overflowing with data, my passion is to uncover the stories hidden beneath the numbers. Every dataset has a purpose, and my mission as an aspiring data analyst is to bring clarity and meaning to it, transforming raw data into powerful insights that can drive decisions and make a difference. My journey is fueled by curiosity, persistence, and the vision to make complex data understandable and impactful.
+
 
  🔭 I’m currently working on Python, SQL, and PowerBI.
  
