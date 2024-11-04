@@ -7,7 +7,9 @@
 <br/>
 
 <div align="center">
- 
+    
+As a data analyst, my goal is to make data approachable and insightful. I’m here to make the complex simple, to create stories from data, and to unlock potential insights that can lead to smarter decisions. Data analysis is more than just numbers—it's about making a difference.
+
  🔭 I’m currently working on Python, SQL, and PowerBI.
  
  🌱 I’m currently learning about Stats and Machine learning.
