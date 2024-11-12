@@ -43,9 +43,8 @@ As a data analyst, my goal is to make data approachable, insightful, and impactf
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </p>
-Numpy, Pandas, Matplotlib, Seaborn, Beautiful Soup, Sickit-Learn ,Selenium.  </br>
-PowerBI, and MS Excel
-MySQL, PostgreSQL.
+Numpy, Pandas, Matplotlib, Seaborn, Beautiful Soup, Sickit-Learn, Selenium.  </br>
+PowerBI, MS Excel, MySQL and PostgreSQL.
 </div>
 <br/>
 <hr/>
